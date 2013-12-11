@@ -38,4 +38,4 @@ A basic programming language that is designed to work on multiple platforms (Pro
 ---
 If you find any bugs or have any questions or comments, email me at thedeveloper4@gmail.com
 
-[logo]: https://raw.github.com/jspann/GiraffeLang/master/giraffe.png "Giraffe Logo"
+[logo]: https://raw.github.com/jspann/GiraffeLang/master/giraffe50.png "Giraffe Logo"
