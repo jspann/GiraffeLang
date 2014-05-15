@@ -31,9 +31,11 @@ A basic programming language that is designed to work on multiple platforms (Pro
 
  -A form of output/ an executable format
 
- -Creating a Windows 8 and Raspberry Pi version of the compiler
+ -Creating a linux version of the compiler
 
--Making the compiler more memory efficient
+ -Making the compiler more memory efficient
+ 
+ -Building libraries
 
 ---
 If you find any bugs or have any questions or comments, email me at thedeveloper4@gmail.com
