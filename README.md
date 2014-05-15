@@ -13,7 +13,7 @@ A basic programming language that is designed to work on multiple platforms (Pro
  Num daleks = 5; 
  ```
 
-#### Defining a ([constant](http://en.wikipedia.org/wiki/Constant_(programming)):
+#### Defining a ([constant](http://en.wikipedia.org/wiki/Constant_(programming))):
  ```
  <variable name> :: <value>;
   NumOfDoctors :: 4; 
