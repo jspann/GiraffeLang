@@ -36,6 +36,9 @@ A basic programming language that is designed to work on multiple platforms (Pro
  -Making the compiler more memory efficient
  
  -Building libraries
+ 
+ -Adding an update tool
+
 
 ---
 If you find any bugs or have any questions or comments, email me at thedeveloper4@gmail.com
