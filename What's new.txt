@@ -1,0 +1,2 @@
+Giraffe 0.1 - December 11th, 2013
+•Initial beta version
